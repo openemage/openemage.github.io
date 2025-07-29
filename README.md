@@ -1,3 +1,2 @@
-# openemage.org
+# OPENEMAGE: The Modular Lab Movement
 
-github pages project to host www.openemage.org
