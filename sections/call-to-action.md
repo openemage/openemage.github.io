@@ -1,8 +1,8 @@
 ## Join Us
 
-**Partner with us as we build the foundational subcellular spacial biology data for tomorrow's spatial intelligence.** We are actively seeking funding partners who share our vision. 
+**Partner with us as we build the foundational subcellular spacial biology data for tomorrow's spatial intelligence.** 
 
-Back the infrastructure that traditional grants won't sustain. Your investment flows directly to systematic foundational data generation with open science from day one.
+We are actively seeking funding partners who share our vision. Back the infrastructure that traditional grants won't sustain. Your investment flows directly to systematic foundational data generation with open science from day one.
 
 **Scientists:** Access datasets. Shape collection priorities. Build on.
 
