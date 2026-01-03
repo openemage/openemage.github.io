@@ -1,11 +1,9 @@
-# Why Now  
+## Why Now
 
-*Talent shall not wait for independence.*
+**Imaging throughput cracked.** With automated microscopes and synchrotron beamlines large-scale data generation is within reach.
 
-The current academic system is facing critical challenges that stall innovation:
+**AI demand is real.** Virtual cell initiatives explicitly call for subcellular spacial biology data, but it doesn't exist at scale. The bottleneck is actively shifting from algorithms to foundational data.
 
-- **Bottlenecks:** Only about **15%** of new Ph.D. graduates secure tenure-track roles, leaving countless potential Principal Investigators stranded.
-- **Lost Talent:** Highly capable scientists outside academia lack support, resulting in isolation and wasted expertise.
-- **Funding Inefficiencies:** Institutional bureaucracy and overhead costs significantly dilute research funding, limiting resources that directly reach scientists and their experiments.
+**Distribution infrastructure has matured.** Cloud-native storage, global filesystems, distributed compute environments. Large datasets can now be used without institutional privilege. The access and resources barrier is disappearing.
 
-These systemic issues urgently demand a new model. OPENEMAGE responds to this pressing need by providing immediate, independent scientific leadership and direct access to resources—today.
+**We've already proven the model.** [EMPIAR-11830](https://www.ebi.ac.uk/empiar/EMPIAR-11830/), our *Chlamydomonas* cryo-electron tomography dataset, is becoming one of the most-used and [largest open cryo-ET](https://cryoetdataportal.czscience.com/datasets/10302/) [resources](https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00970-0) in subcellular spatial biology. Labs worldwide are building on it. OPENEMAGE is scaling this approach to human immune cells at scale required for tomorrow's AI Virtual Cells.

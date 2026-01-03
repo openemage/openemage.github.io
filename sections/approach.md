@@ -1,11 +1,11 @@
 # How  
 
-*A lab without walls.*
+*By creating open and large-scale subcellular spatial biology datasets of human immune cells, specifically Lymphocytes, across states and disease-relevant conditions.*
 
-Advances in centralized research infrastructure, cloud computing, and contract research organizations (CROs) make independent, single-PI labs more feasible than ever. OPENEMAGE leverages these advancements:
+**Why Lymphocytes?** Lymphocytes change in ways that are both medically critical and uniquely suited for machine learning. When a T cell activates, it doesn't explode into a different shape. It *reorganizes*. These gradual, structured transitions form smooth manifolds that AI can navigate and learn from.
 
-- **Shared Infrastructure:** Researchers access state-of-the-art facilities and computational resources remotely, eliminating the need for costly, owned equipment.
-- **Nonprofit Umbrella:** OPENEMAGE provides essential administrative support, grant eligibility, and a recognized institutional affiliation.
-- **Ownership & Autonomy:** Scientists retain full ownership of their intellectual property and data, promoting unhindered collaboration and innovation.
+**With Multi-scale Imaging** X-ray tomography for rapid whole-cell surveys. Volume electron microscopy for detailed organelle anatomy. Cryo-electron tomography for molecular-scale precision. Complimented by multi modal imaging with Expansion Microscopy.
 
-This unique combination of **service-based infrastructure and scientific independence** allows independent labs to perform high-caliber research at scale, without traditional constraints.
+**Open Science, Open Data, and Open Compute from Day One** Access our datasets without the need for bulk downloads. Together with ready to use computational environment, reproduce our results, then build on them. 
+
+**Why a Nonprofit?** This data doesn't exist because the organizations that could create it are structurally prevented from doing so. Academic labs need to optimize for publications, not systematic datasets at scale. Commercial organisations do not have the right motivation. *OPENEMAGE* is built specifically to do what neither can: generate massive subcellular spatial biology datasets and release them as permanent public infrastructure for tommorow's AI Virtual Cells. 

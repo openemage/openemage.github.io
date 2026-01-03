@@ -1,7 +1,11 @@
-# Our Vision  
+## Our Mission
 
-*Empowering independent science.*
+The next generation of biological AI will simulate living cells, predicting how they activate, exhaust, remember, respond to drugs, fight pathogens. These "AI virtual cells" could transform immunotherapy, vaccine design, and our basic understanding of disease.
 
-OPENEMAGE is a transformative new model for scientific research, empowering independent researchers through **modular, self-directed labs** supported by open infrastructure and cutting-edge technology. It is envisioned as a **meta-institution**, a decentralized network of investigators working beyond traditional academia, yet enjoying credibility, resources, and community typically reserved for faculty positions.
+But today's AI learns about cells from molecular lists; which genes are expressed, which proteins are present, how much of each. These measurements are powerful. However, we are also missing something fundamental.
 
-OPENEMAGE grants immediate Principal Investigator status without the constraints of traditional academic bureaucracy. Anchored initially in advanced imaging science, OPENEMAGE's modular approach aims to spark a new era of scientific freedom, scalable to every research domain.
+**Cellular function is spatially orchestrated**. The same molecules, arranged differently in the subcellular space, produce different cellular behavior. Underlying cellular processes unfold across the three-dimensional subcellular architecture of the cell.
+
+Current virtual cell efforts can classify states from molecular signatures. They struggle to predict what cells will actually *do*, because they've not seen the subcellular spatial organization that governs function.
+
+*OPENEMAGE is building this foundational subcellular spatial biology data for Tomorrow's AI virtual cells.*
